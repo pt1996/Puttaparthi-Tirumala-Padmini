@@ -49,9 +49,9 @@ Welcome to my GitHub profile! I'm a passionate Test Engineer with expertise in *
 
 ## Get in Touch
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- 🌐 Website: [Your Personal Website](https://www.yourwebsite.com)
+- 📧 Email: paddukishore96@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/padmini-pt-087a8b214/
+- 🌐 Website: www.padmini.com
 
 ## Contributions
 
@@ -82,9 +82,9 @@ This profile and its contents are licensed under the MIT License - see the [LICE
 
 - 💬 Ask me about **Manual Testing, Core Java, Selenium, TestNG, API Testing, Postman, JIRA**
 
-- 📫 How to reach me **your.email@example.com**
+- 📫 How to reach me paddukishore96@gmail.com
 
-- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 📄 Know about my experiences https://www.linkedin.com/in/padmini-pt-087a8b214/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
