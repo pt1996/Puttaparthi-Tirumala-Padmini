@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate Test Engineer with expertise in *
 
 - 📧 Email: paddukishore96@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/padmini-pt-087a8b214/
-- 🌐 Website: www.padmini.com
+- 🌐 Website: https://padminitesting.blogspot.com/
 
 ## Contributions
 
@@ -85,6 +85,7 @@ This profile and its contents are licensed under the MIT License - see the [LICE
 - 📫 How to reach me paddukishore96@gmail.com
 
 - 📄 Know about my experiences https://www.linkedin.com/in/padmini-pt-087a8b214/
+- 📄 Know about my experiences https://padminitesting.blogspot.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
