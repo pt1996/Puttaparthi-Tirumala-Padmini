@@ -1,4 +1,78 @@
-<h2 align="left">Hi 👋! My name is Puttaparthi Tirumala Padmini  </h2>
+
+# Hello, I'm Puttaparthi Tirumala Padmini👋
+
+![Profile Banner](https://via.placeholder.com/1200x400)
+
+Welcome to my GitHub profile! I'm a passionate Test Engineer with expertise in **Selenium**, **Manual Testing**, and **TestNG**. I thrive on ensuring the highest quality of software through meticulous testing and automated test scripts.
+
+## About Me
+
+- 🌟 **Test Engineer** with hands-on experience in creating and executing test cases, both manually and using automation tools.
+- 🌐 Proficient in **Selenium WebDriver** for browser automation.
+- 💡 Skilled in using **TestNG** for organizing and managing test suites.
+- 🧪 Adept at **Manual Testing**, ensuring comprehensive coverage and high-quality software.
+- 📊 Enthusiastic about learning new technologies and continuously improving my testing methodologies.
+
+## Skills
+
+- **Automation Testing**: Selenium WebDriver, TestNG
+- **Manual Testing**: Test case design, execution, defect tracking
+- **Programming Languages**: Java, Python
+- **Tools**: JIRA, Git, Jenkins
+- **Frameworks**: TestNG, Maven
+
+## Projects
+
+### 1. Selenium Automation Framework
+
+![Selenium Project](https://via.placeholder.com/600x300)
+
+- **Description**: Developed a robust automation framework using Selenium WebDriver and TestNG.
+- **Technologies**: Selenium WebDriver, TestNG, Java, Maven
+- **Repository**: [Selenium-Automation-Framework](https://github.com/yourusername/selenium-automation-framework)
+
+### 2. Manual Testing Project
+
+![Manual Testing Project](https://via.placeholder.com/600x300)
+
+- **Description**: Comprehensive manual testing of a web application, including test case design, execution, and defect reporting.
+- **Tools**: JIRA, Excel
+- **Repository**: [Manual-Testing-Project](https://github.com/yourusername/manual-testing-project)
+
+### 3. TestNG Advanced Features
+
+![TestNG Project](https://via.placeholder.com/600x300)
+
+- **Description**: Exploration of advanced features in TestNG, including data-driven testing and parallel test execution.
+- **Technologies**: TestNG, Java
+- **Repository**: [TestNG-Advanced-Features](https://github.com/yourusername/testng-advanced-features)
+
+## Get in Touch
+
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 🌐 Website: [Your Personal Website](https://www.yourwebsite.com)
+
+## Contributions
+
+I actively contribute to open-source projects and participate in the testing community. Check out my repositories and feel free to fork, star, and contribute!
+
+## License
+
+This profile and its contents are licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+*Happy Testing!*
+
+![Happy Testing](https://via.placeholder.com/600x100)
+
+
+
+
+
+
+<h2 align="left">Hi 👋! My name is Padmini P T  </h2>
 
 ###
 
@@ -14,19 +88,16 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  
+  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="TestNg logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="selenium logo"  />
 </div>
 
 ###
