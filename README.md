@@ -1,5 +1,5 @@
 
-<h1 align="center">
+
 ![Profile Banner](https://via.placeholder.com/1200x400)
  
 ## About Me
