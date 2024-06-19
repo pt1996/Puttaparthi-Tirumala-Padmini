@@ -1,9 +1,7 @@
 
-Hi! I am Puttaparthi Tirumala Padmini
+ Hello, I'm Puttaparthi Tirumala Padmini 👋
+
 ![Profile Banner](https://via.placeholder.com/1200x400)
-
-
-![Uploading testngimage.gif…]()
 
 ## About Me
     
