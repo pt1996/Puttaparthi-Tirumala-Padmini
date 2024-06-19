@@ -50,6 +50,20 @@
 - **Technologies**: TestNG, Java
 - **Repository**: [TestNG-Advanced-Features](https://github.com/yourusername/testng-advanced-features)
 
+   ### 💻 Tech Stack
+
+<p>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/java%20-%23FF0000.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Selenium Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="TestNg" src="https://img.shields.io/badge/testng-3DDC84?logo=testng&logoColor=white"></a>
+    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/-Jira-FE7A16?logo=jira&logoColor=white"></a>
+   
+</p>
+
 ## Get in Touch
 
 - 📧 Email: paddukishore96@gmail.com
