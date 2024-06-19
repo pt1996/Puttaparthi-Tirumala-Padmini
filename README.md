@@ -1,7 +1,9 @@
 
-
+Hi! I am Puttaparthi Tirumala Padmini
 ![Profile Banner](https://via.placeholder.com/1200x400)
- 
+
+ ![Uploading testngimage.gif…]()
+
 ## About Me
     
 - 🌟 **Test Engineer** with hands-on experience in creating and executing test cases, both manually and using automation tools.
