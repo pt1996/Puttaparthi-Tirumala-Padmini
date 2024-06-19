@@ -32,7 +32,7 @@ Hi, I'm Puttaparthi Tirumala Padmini 👋!
 
 - **Description**: Developed a robust automation framework using Selenium WebDriver and TestNG.
 - **Technologies**: Selenium WebDriver, TestNG, Java, Maven
-- **Repository**: [Selenium-Automation-Framework](https://github.com/yourusername/selenium-automation-framework)
+
 
 ### 2. Manual Testing Project
 
@@ -42,7 +42,7 @@ Hi, I'm Puttaparthi Tirumala Padmini 👋!
 
 - **Description**: Comprehensive manual testing of a web application, including test case design, execution, and defect reporting.
 - **Tools**: JIRA, Excel
-- **Repository**: [Manual-Testing-Project](https://github.com/yourusername/manual-testing-project)
+- 
 
 ### 3. TestNG Advanced Features
 
@@ -50,7 +50,7 @@ Hi, I'm Puttaparthi Tirumala Padmini 👋!
 
 - **Description**: Exploration of advanced features in TestNG, including data-driven testing and parallel test execution.
 - **Technologies**: TestNG, Java
-- **Repository**: [TestNG-Advanced-Features](https://github.com/yourusername/testng-advanced-features)
+
 
    ### 💻 Tech Stack
 
