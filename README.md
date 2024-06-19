@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate Test Engineer with expertise in *
 
 ### 2. Manual Testing Project
 
-![Manual Testing Project](https://via.placeholder.com/600x300)
+
 
 - **Description**: Comprehensive manual testing of a web application, including test case design, execution, and defect reporting.
 - **Tools**: JIRA, Excel
@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate Test Engineer with expertise in *
 
 ### 3. TestNG Advanced Features
 
-![TestNG Project](https://via.placeholder.com/600x300)
+
 
 - **Description**: Exploration of advanced features in TestNG, including data-driven testing and parallel test execution.
 - **Technologies**: TestNG, Java
@@ -68,7 +68,8 @@ This profile and its contents are licensed under the MIT License - see the [LICE
 
 *Happy Testing!*
 
-![Happy Testing](https://via.placeholder.com/600x100)
+![6385c8e3d127c31a03eb5fd7_Triggre blog How to quickly realize the benefits of automating a manual process](https://github.com/pt1996/Puttaparthi-Tirumala-Padmini/assets/32099495/2d644458-f629-4b6c-a7bd-756369dfe4ab)
+
 
 <h1 align="center">Hi 👋, I'm Puttaparthi Tirumala Padmini</h1>
 <h3 align="center">A passionate Software Test Engineer</h3>
