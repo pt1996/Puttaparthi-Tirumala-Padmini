@@ -5,11 +5,12 @@ Hi, I'm Puttaparthi Tirumala Padmini 👋!
 
 ## 👨🏻‍💻 About Me
     
-- 🌟 **Test Engineer** with hands-on experience in creating and executing test cases, both manually and using automation tools.
+- 🌟 I like to Test the software and Automate the web applicate.
 - 🌐 Proficient in **Selenium WebDriver** for browser automation.
 - 💡 Skilled in using **TestNG** for organizing and managing test suites.
 - 🧪 Adept at **Manual Testing**, ensuring comprehensive coverage and high-quality software.
 - 📊 Enthusiastic about learning new technologies and continuously improving my testing methodologies.
+- 🌟 I have automatde the Amazon application .
 
   ![testngimage](https://github.com/pt1996/padmini9698/assets/32099495/b5e80483-8493-4e55-843b-1426f768fc61)
 
