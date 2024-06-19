@@ -1,7 +1,6 @@
 
 <h1 align="center">
-Hi, I'm Puttaparthi Tirumala Padmini!
-  <img src="C:\Users\ADMIN\Downloads\testngimage.gif" width="30"></h1>
+![Profile Banner](https://via.placeholder.com/1200x400)
  
 ## About Me
     
