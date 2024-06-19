@@ -111,10 +111,8 @@ Hi, I'm Puttaparthi Tirumala Padmini 👋!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="yourprofile" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="yourprofile" height="30" width="40" /></a>
-<a href="https://fb.com/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="yourprofile" height="30" width="40" /></a>
-<a href="https://instagram.com/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="yourprofile" height="30" width="40" /></a>
-<a href="https://twitter.com/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="yourprofile" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009236369703" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="yourprofile" height="30" width="40" /></a>
+<a href="https://www.instagram.com/padmini.tirumala/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="yourprofile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
