@@ -25,7 +25,8 @@ Welcome to my GitHub profile! I'm a passionate Test Engineer with expertise in *
 ## Projects
 
 ### 1. Selenium Automation Framework
-![Unit-Testing-Framewo](https://github.com/pt1996/Puttaparthi-Tirumala-Padmini/assets/32099495/aae801a2-61f6-475e-8fd3-241583ab427c)
+
+![Automation-Testing-Tools-Copperchips-1](https://github.com/pt1996/Puttaparthi-Tirumala-Padmini/assets/32099495/1913cf52-a340-4314-87ce-4a6c70ea03ae)
 
 
 
