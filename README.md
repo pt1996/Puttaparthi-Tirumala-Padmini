@@ -2,8 +2,7 @@
 # Hello, I'm Puttaparthi Tirumala Padmini👋
 
 
-![Profile![2021_11_Types-of-Software-Testing](https://github.com/pt1996/Puttaparthi-Tirumala-Padmini/assets/32099495/ff0efb8e-4184-4cdf-9983-3232bfb52d22)
-e Banner](https://via.placeholder.com/1200x400)
+![2021_11_Types-of-Software-Testing](https://github.com/pt1996/Puttaparthi-Tirumala-Padmini/assets/32099495/4785ac9d-e1bc-486d-bb0f-a761cecab545)
 
 Welcome to my GitHub profile! I'm a passionate Test Engineer with expertise in **Selenium**, **Manual Testing**, and **TestNG**. I thrive on ensuring the highest quality of software through meticulous testing and automated test scripts.
 
