@@ -1,7 +1,8 @@
 
  Hello, I'm Puttaparthi Tirumala Padmini 👋
+![download](https://github.com/pt1996/padmini9698/assets/32099495/22261d4f-b7e9-4316-97a1-08ca583262fb)
 
-![Profile Banner](https://via.placeholder.com/1200x400)
+
 
 ## About Me
     
