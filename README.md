@@ -95,9 +95,9 @@ Hi, I'm Puttaparthi Tirumala Padmini 👋!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
-- 🔭 I’m currently working on [Project Name](https://github.com/yourusername/projectname)
+- 🔭 I’m currently working on [Goibibo Project](https://github.com/yourusername/projectname)
 
-- 🌱 I’m currently learning **Advanced Selenium, API automation**
+- 🌱 I’m currently learning **Selenium, API automation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yourusername](https://github.com/yourusername)
 
