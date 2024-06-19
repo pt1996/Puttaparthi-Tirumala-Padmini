@@ -1,7 +1,8 @@
 
 # Hello, I'm Puttaparthi Tirumala Padmini👋
 
-![Uploading 7946c1560bd96ac3981daaa86d6716b9.gif…]()
+
+![Profile Banner](https://your-image-url.com/banner-image.png)
 
 
 
