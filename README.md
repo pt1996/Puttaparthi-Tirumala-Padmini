@@ -1,8 +1,9 @@
 
-                              Hello, I'm Puttaparthi Tirumala Padmini 👋
+ <h1 align="center">
+Hi, I'm Pallavi Patil!                          
 
 
-## About Me
+## 👨🏻‍💻 About Me
     
 - 🌟 **Test Engineer** with hands-on experience in creating and executing test cases, both manually and using automation tools.
 - 🌐 Proficient in **Selenium WebDriver** for browser automation.
@@ -78,13 +79,6 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/padmini-pt-087a8b214/
 - 🌐 Website: https://padminitesting.blogspot.com/
 
-## Contributions
-
-I actively contribute to open-source projects and participate in the testing community. Check out my repositories and feel free to fork, star, and contribute!
-
-## License
-
-This profile and its contents are licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
