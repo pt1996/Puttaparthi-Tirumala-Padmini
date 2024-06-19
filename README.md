@@ -1,6 +1,9 @@
 
 # Hello, I'm Puttaparthi Tirumala Padmini👋
 
+![Uploading 7946c1560bd96ac3981daaa86d6716b9.gif…]()
+
+
 
 ## About Me
     
@@ -9,7 +12,6 @@
 - 💡 Skilled in using **TestNG** for organizing and managing test suites.
 - 🧪 Adept at **Manual Testing**, ensuring comprehensive coverage and high-quality software.
 - 📊 Enthusiastic about learning new technologies and continuously improving my testing methodologies.
-![Uploading 7946c1560bd96ac3981daaa86d6716b9.gif…]()
 
 - 
 
