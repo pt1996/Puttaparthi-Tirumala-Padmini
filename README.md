@@ -25,8 +25,9 @@ Welcome to my GitHub profile! I'm a passionate Test Engineer with expertise in *
 ## Projects
 
 ### 1. Selenium Automation Framework
+![Unit-Testing-Framewo](https://github.com/pt1996/Puttaparthi-Tirumala-Padmini/assets/32099495/aae801a2-61f6-475e-8fd3-241583ab427c)
 
-![Selenium Project](https://via.placeholder.com/600x300)
+
 
 - **Description**: Developed a robust automation framework using Selenium WebDriver and TestNG.
 - **Technologies**: Selenium WebDriver, TestNG, Java, Maven
