@@ -18,7 +18,7 @@ Hi, I'm Puttaparthi Tirumala Padmini 👋!
 
 - **Automation Testing**: Selenium WebDriver, TestNG
 - **Manual Testing**: Test case design, execution, defect tracking
-- **Programming Languages**: Java, Python
+- **Programming Languages**: Java
 - **Tools**: JIRA, Git, Jenkins
 - **Frameworks**: TestNG, Maven
 
