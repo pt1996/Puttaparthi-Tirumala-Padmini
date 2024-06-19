@@ -1,7 +1,10 @@
 
- Hello, I'm Puttaparthi Tirumala Padmini 👋
-![download](https://github.com/pt1996/padmini9698/assets/32099495/22261d4f-b7e9-4316-97a1-08ca583262fb)
+                              Hello, I'm Puttaparthi Tirumala Padmini 👋
 
+ 
+
+
+![testngimage](https://github.com/pt1996/padmini9698/assets/32099495/b5e80483-8493-4e55-843b-1426f768fc61)
 
 
 ## About Me
