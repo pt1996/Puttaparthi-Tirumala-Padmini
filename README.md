@@ -1,6 +1,6 @@
 
  <h1 align="center">
-Hi, I'm Pallavi Patil!                          
+Hi, I'm Puttaparthi Tirumala Padmini 👋!                          
 
 
 ## 👨🏻‍💻 About Me
