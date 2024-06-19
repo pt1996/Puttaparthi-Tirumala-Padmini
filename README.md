@@ -36,7 +36,8 @@ Welcome to my GitHub profile! I'm a passionate Test Engineer with expertise in *
 
 ### 2. Manual Testing Project
 
-![images](https://github.com/pt1996/Puttaparthi-Tirumala-Padmini/assets/32099495/eef3ad05-0bdb-4d9f-8718-1da794d938c7)
+
+![images](https://github.com/pt1996/Puttaparthi-Tirumala-Padmini/assets/32099495/122c6065-8580-47bf-bce6-56b343c23d05)
 
 
 - **Description**: Comprehensive manual testing of a web application, including test case design, execution, and defect reporting.
