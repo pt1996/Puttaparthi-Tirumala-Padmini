@@ -42,7 +42,7 @@ Hi, I'm Puttaparthi Tirumala Padmini 👋!
 
 - **Description**: Comprehensive manual testing of a web application, including test case design, execution, and defect reporting.
 - **Tools**: JIRA, Excel
-- 
+  
 
 ### 3. TestNG Advanced Features
 
